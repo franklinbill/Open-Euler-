@@ -1,6 +1,8 @@
 # Open-Euler-
 最近在学习使用Open Euler，记录一下踩过的坑，欢迎大家一起讨论
 
+# 更新ing
+
 ## 安装步骤：
 
 1.  下载 QEMU 源代码并安装
@@ -35,7 +37,7 @@
 
     2.  如出现类似如下输出表示 QEMU 工作正常
 
-        ![](C:\Users\99477\Desktop\markdown/419aaf7bc99da7f5e31e098bc7fb0271.png)
+        ![](figure/419aaf7bc99da7f5e31e098bc7fb0271.png)
 
 4.  下载 openEuler RISC-V 系统镜像
 
@@ -45,7 +47,7 @@
 
     1.  运行下列代码启动
 
-        ![](C:\Users\99477\Desktop\markdown/8c5007f30b5bbe2579452325fe0a2c8c.png)
+        ![](figure/8c5007f30b5bbe2579452325fe0a2c8c.png)
 
     2.  输入用户名密码
 
@@ -55,7 +57,7 @@
 
         3.  登陆成功如下所示：
 
-            ![](C:\Users\99477\Desktop\markdown/e8ec4d46498a29213d7745fbd17b1495.png)
+            ![](figure/e8ec4d46498a29213d7745fbd17b1495.png)
 
 6.  在虚拟机上安装neofetch
 
@@ -71,12 +73,16 @@
 
     2.  如下所示：
 
-        ![](C:\Users\99477\Desktop\markdown/73c8698a59635dce4694756b594a2b28.png)
+        ![](figure/73c8698a59635dce4694756b594a2b28.png)
 
     3.  运行成功后如下所示：
 
-        ![](C:\Users\99477\Desktop\markdown/9358a99d09e7f248828e7b72a1e5c7e3.png)
+        ![](figure/9358a99d09e7f248828e7b72a1e5c7e3.png)
 
 ## 最终测试结果：
 
-![](C:\Users\99477\Desktop\markdown/9358a99d09e7f248828e7b72a1e5c7e3.png)
+![](figure/9358a99d09e7f248828e7b72a1e5c7e3.png)
+
+
+
+
